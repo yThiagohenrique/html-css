@@ -1,0 +1,40 @@
+body {
+    background-color: aqua;
+}
+
+header {
+    margin: 10%;
+    box-shadow: 5px 5px 3px 3px black;
+    padding-top: 2px;
+    padding-right: 3px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    border-radius: 10px;
+    
+}
+
+header > h1 {
+    background-image: linear-gradient(to right, blue, transparent);
+    color: azure;
+}
+
+header > a {
+    color: blue;
+}
+
+a:hover {
+    background-color: black;
+}
+
+h2 {
+    background-image: linear-gradient(to right, blue, transparent);
+}
+
+img {
+    width: 450px;
+    height: 500px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px 5px black;
+    
+}
+
